@@ -1,2 +1,1 @@
-# myrepository
-first GitHub repository
+#Example of README.md
